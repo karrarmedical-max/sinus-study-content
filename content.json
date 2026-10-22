@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-10-22",
   "stage": "المرحلة الثانية · الكورس الأول",
-  "latestApp": "2.1.2",
+  "latestApp": "2.2.0",
   "appLink": "https://t.me/novamediqoffical",
   "levels": {
     "vhigh": {
@@ -38,7 +38,13 @@
     "channel": "novamediqoffical",
     "instagram": "nova.mediq"
   },
-  "news": [],
+  "news": [
+    {
+      "id": "welcome",
+      "date": "2026-10-22",
+      "text": "أهلًا بكم في Sinus Study. الجدول الامتحاني سيظهر هنا فور إعلانه."
+    }
+  ],
   "exams": [],
   "subjects": [
     {
